@@ -1,2 +1,2 @@
 # Photoshop
-This is a simple photoshop replication.
+This is a JavaFX photo editing application.
