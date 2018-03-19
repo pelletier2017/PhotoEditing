@@ -1,0 +1,18 @@
+WritableImage image = canvas.snapshot(null, null);
+
+graphicsContext methods
+ - drawImage(img, double, double, double, double, double, double) "square of an image into a square on the canvas")
+ - applyEffect(Effect e)
+ 
+ 
+Effect
+ - bloom, colorAdjust, gaussianBlur, glow, etc
+ 
+Affine (extends Transform)
+ - 2d to 2d mapping with "straightness and parallelness of lines"
+ 
+ how to save file to jpeg
+ https://stackoverflow.com/questions/19548363/image-saved-in-javafx-as-jpg-is-pink-toned
+ 
+ dropshadow example
+ https://stackoverflow.com/questions/30625039/set-border-around-imageview-with-no-background-in-javafx

@@ -1,0 +1,15 @@
+Important:
+  split into model, view, controller
+  user can use a filters on the image (menu bar, filters, popup dialog box with dif filters and preview checkbox
+  user can select, crop, drag
+  zoom should center on where the mouse is when scrolling
+
+Less important:
+  user can zoom in super far to pixels without lagging (only loading part of the picture?)
+  user is able to rotate images any degree
+  
+  
+features:
+  user can save and load images
+  user can zoom and drag photo around
+  user can modify contrast/brightness/sharpness

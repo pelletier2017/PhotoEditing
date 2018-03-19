@@ -1,0 +1,6 @@
+struggling with:
+  - coordinates rotate when GraphicsContext rotates (solved by rotating image view instead of gc)
+  - save file to jpeg turns pink, png works fine (solved by removing alpha from Image before saving to jpeg)
+  
+lessons learned:
+  - need to save full sized image or quality is lost

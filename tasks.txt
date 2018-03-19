@@ -1,6 +1,0 @@
-split into model, view, controller
-user can see a bar on right side filled with buttons
-user can use a filters on the image (menu bar, filters, popup dialog box with dif filters and preview checkbox
-user can use a brightness/sharpness slider (on right bar)
-user can select, crop, drag
-user can save and load jpeg files
